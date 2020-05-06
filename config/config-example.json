@@ -1,0 +1,9 @@
+{
+    "SERVER_PORT": 8006,
+    "MONGODB_URI": "mongodb://{ENTER URL}",
+    "ENV": "{enviroment- dev/prod}",
+    "FE_OUTPUT_DIR": "../public",
+    "FE_STATIC_DIR": "../static",
+    "FE_FONT_DIR": "fonts",
+    "FE_IMAGE_DIR": "images"
+}
